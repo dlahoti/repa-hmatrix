@@ -19,8 +19,7 @@ library
   other-extensions:     TypeSynonymInstances, FlexibleInstances,
                         FlexibleContexts, UndecidableInstances,
                         MultiParamTypeClasses, TypeFamilies,
-                        BangPatterns,
-                        TemplateHaskell
+                        BangPatterns
   build-depends:        base >=4.8,
                         vector,
                         repa,
